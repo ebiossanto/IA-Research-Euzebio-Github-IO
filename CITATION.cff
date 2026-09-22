@@ -3,8 +3,8 @@ title: "IA Research - Projetos de Pesquisa com Inteligencia Artificial"
 message: "Estes trabalhos sao estudos de ideias desenvolvidos com ferramentas de IA"
 type: software
 authors:
-  - family-names: Santos
-    given-names: Euzebio
+  - family-names: "Soares dos Santos"
+    given-names: "Euzébio"
     role: author
 license: MIT
 repository-code: "https://github.com/ebiossanto"
@@ -12,8 +12,8 @@ preferred-citation:
   type: book
   title: "IA Research: Estudos de Ideias em Criptografia, Matematica e Computacao"
   author:
-    - family-names: Santos
-      given-names: Euzebio
+    - family-names: "Soares dos Santos"
+      given-names: "Euzébio"
   year: 2026
   notes: "Desenvolvido com Gemini MiMo V2.5, GPT 5.6 Copilot e Opencode"
 

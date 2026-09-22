@@ -1,4 +1,4 @@
-﻿# Euzebio Santos
+﻿# Euzébio Soares dos Santos
 
 ## Pesquisador Independente | Matematica & Criptografia
 
